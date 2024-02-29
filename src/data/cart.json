@@ -1,0 +1,99 @@
+[
+  {
+    "id": 60,
+    "title": "Stylish Casual Jeans Shoes",
+    "description": "High Quality ,Stylish design ,Comfortable wear ,FAshion ,Durable",
+    "price": 58,
+    "discountPercentage": 7.55,
+    "rating": 4.55,
+    "stock": 129,
+    "brand": "Sneakers",
+    "category": "mens-shoes",
+    "thumbnail": "https://i.dummyjson.com/data/products/60/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/60/1.jpg",
+      "https://i.dummyjson.com/data/products/60/2.jpg",
+      "https://i.dummyjson.com/data/products/60/3.jpg",
+      "https://i.dummyjson.com/data/products/60/thumbnail.jpg"
+    
+    ],
+    "quantity": 4
+  },
+  {
+    "id": 64,
+    "title": "Leather Strap Skeleton Watch",
+    "description": "Leather Strap Skeleton Watch for Men - Stylish and Latest Design",
+    "price": 46,
+    "discountPercentage": 10.2,
+    "rating": 4.98,
+    "stock": 61,
+    "brand": "Strap Skeleton",
+    "category": "mens-watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/64/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/64/1.jpg",
+      "https://i.dummyjson.com/data/products/64/2.webp",
+      "https://i.dummyjson.com/data/products/64/3.jpg",
+      "https://i.dummyjson.com/data/products/64/thumbnail.jpg"
+    ],
+    "quantity": 7
+  },
+  {
+    "id": 69,
+    "title": "Golden Watch Pearls Bracelet Watch",
+    "description": "Product details of Golden Watch Pearls Bracelet Watch For Girls - Golden Chain Ladies Bracelate Watch for Women",
+    "price": 47,
+    "discountPercentage": 17.55,
+    "rating": 4.77,
+    "stock": 89,
+    "brand": "Watch Pearls",
+    "category": "womens-watches",
+    "thumbnail": "https://i.dummyjson.com/data/products/69/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/69/1.jpg",
+      "https://i.dummyjson.com/data/products/69/2.jpg",
+      "https://i.dummyjson.com/data/products/69/3.webp",
+      "https://i.dummyjson.com/data/products/69/4.jpg",
+      "https://i.dummyjson.com/data/products/69/thumbnail.jpg"
+    ],
+    "quantity": 2
+  },
+  {
+    "id": 71,
+    "title": "Women Shoulder Bags",
+    "description": "LouisWill Women Shoulder Bags Long Clutches Cross Body Bags Phone Bags PU Leather Hand Bags Large Capacity Card Holders Zipper Coin Purses Fashion Crossbody Bags for Girls Ladies",
+    "price": 46,
+    "discountPercentage": 14.65,
+    "rating": 4.71,
+    "stock": 17,
+    "brand": "LouisWill",
+    "category": "womens-bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/71/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/71/1.jpg",
+      "https://i.dummyjson.com/data/products/71/2.jpg",
+      "https://i.dummyjson.com/data/products/71/3.webp",
+      "https://i.dummyjson.com/data/products/71/thumbnail.jpg"
+    ],
+    "quantity": 1
+  },
+  {
+    "id": 75,
+    "title": "Seven Pocket Women Bag",
+    "description": "Seven Pocket Women Bag Handbags Lady Shoulder Crossbody Bag Female Purse Seven Pocket Bag",
+    "price": 68,
+    "discountPercentage": 14.87,
+    "rating": 4.93,
+    "stock": 13,
+    "brand": "Steal Frame",
+    "category": "womens-bags",
+    "thumbnail": "https://i.dummyjson.com/data/products/75/thumbnail.jpg",
+    "images": [
+      "https://i.dummyjson.com/data/products/75/1.jpg",
+      "https://i.dummyjson.com/data/products/75/2.jpg",
+      "https://i.dummyjson.com/data/products/75/3.jpg",
+      "https://i.dummyjson.com/data/products/75/thumbnail.jpg"
+    ],
+    "quantity": 7
+  }
+]
